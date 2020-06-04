@@ -1,2 +1,3 @@
-# NLW_Aula1
-Next Level Week - Aula 1
+# Next Level Week
+Aula 1 - Ecoleta Home Page
+Aula 2 - Ecoleta Cadastro
