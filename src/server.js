@@ -67,7 +67,7 @@ server.post("/savepoint", (req,res) => {
         console.log("Cadastrado com sucesso!")
         console.log(this)
 
-        return res.render("create-pointe.html", {save : true})
+        return res.render("create-point.html", { saved : true })
     }
 
     db.run(query, values, afterInsertData)
